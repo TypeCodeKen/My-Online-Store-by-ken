@@ -1,0 +1,56 @@
+body{
+
+    background: #ececec;
+}
+h1{
+    position: relative;
+    font-size: 40px;
+    color: #0ca6d4;
+    -webkit-text-stroke: 0.3vw #979db3;
+    text-transform: uppercase;
+    text-align: center;
+}
+.rwd .responsive-table-component {
+    margin: 0;
+    padding: 2em 0;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    -webkit-text-stroke: 0.2vw #0ca6d4;
+}
+h4{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 0.2vw #020303;
+    font-size: 30px;
+   
+}
+.motherboard{
+    text-align: center;
+   border: 3px solid black;
+   border-radius: 10px;
+   margin-bottom: 10px;
+}
+    
+.border{
+    border: 3px solid rgb(5, 5, 5);
+    border-radius: 20px;
+    margin-bottom: 10px;
+   
+    
+}
+.case{
+    text-align: center;
+    border: 3px solid rgb(7, 115, 238);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.Graphics{
+    text-align: center;
+    
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}

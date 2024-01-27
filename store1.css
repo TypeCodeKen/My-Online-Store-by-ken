@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 59vh;
+    background: #121525;
+}
+h2{
+    position: relative;
+    font-size: 40px;
+    color: #0ca6d4;
+    -webkit-text-stroke: 0.3vw #979db3;
+    text-transform: uppercase;
+}
+p{
+    color: rgb(233, 240, 240);
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: aquamarine;
+    text-align: center;
+}
+.wrapper{
+    margin: 150px;
+    width: 70%;
+}
+
+img{
+    text-align: center;
+    max-width: 350px;
+    float: left;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
